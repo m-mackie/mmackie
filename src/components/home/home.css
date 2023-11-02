@@ -70,6 +70,12 @@ img {
     
 }
 
+.header_icon {
+    text-align: center;
+    background: none;
+    vertical-align: middle; 
+    font-size: 1.5rem;
+}
 /* Socials */
 .header__socials {
     display: flex;
