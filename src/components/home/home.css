@@ -31,7 +31,7 @@ header {
   
 
 .name_highlight {
-    color: #23B7D3;
+    color: var(--color-primary);
 }
 
 h3 {

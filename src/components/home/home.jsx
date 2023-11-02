@@ -11,7 +11,7 @@ const Home = () => {
                 <div className="name_container">
                     <h1>Hello, I am <span className="name_highlight">Melissa</span>,</h1>
                     <h3>Full-Stack Webdeveloper</h3>
-                    <p>I create beautiful things. I am a passionate creator and I beleive that life is a journey of continued learning.</p>
+                    <p>I create beautiful things. I am a passionate creator and I believe that life is a journey of continued learning.</p>
                     <CallToAction />
                 </div>
                
