@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './components/home/home';
-// import About from './components/about/about';
+import About from './components/about/about';
 // import Projects from './components/projects/projects';
 import Nav from './components/nav/nav';
 // import Contacts from './components/contact/contact';
@@ -11,8 +11,8 @@ function App() {
     <>
      <Home />
      <Nav />
-     {/* <About />
-     <Projects />
+     <About />
+      {/* <Projects />
      <Contacts />
      <Footer /> */}
     </>

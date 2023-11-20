@@ -1,3 +1,4 @@
+//Imports
 import React from 'react'
 import './nav.css'
 import { BsHouseDoor } from 'react-icons/bs';
@@ -6,6 +7,8 @@ import { FaRegFileCode } from 'react-icons/fa';
 import { BiMessageAltDetail } from 'react-icons/bi';
 import { useState } from 'react';
 
+
+//Navigation Panal
 const Nav = () => {
   const [activeNav, setActiveNav] = useState('#')
 

@@ -1,9 +1,10 @@
+//Imports
 import React from 'react';
 import {BiCoffeeTogo} from 'react-icons/bi'
 import {RiNewspaperLine} from 'react-icons/ri'
 import '../home.css';
  
-
+//call to action button panals for resume and contact information
 const CallToAction = () => {
     return (
         <div className="cta">
