@@ -8,11 +8,11 @@ import {RiNewspaperLine} from 'react-icons/ri'
 
 const About = () => {
   return (
-    <section id='about'>
+    <section id='about'  >
       <h2 className="about__h2">ABOUT ME</h2>
           <div className="about_me">
                 <img src={ME} className="about_image" alt="portriat headshot of Melissa" />
-                <article>
+                <article className="about">
                   <h3>A little bit about me...</h3>
                   I have a rich employment history in customer service, with a sprinkling of healthcare and sales in-between. I have always sought and found a way to influence each position I have held with empathy, passion, and a never-give-up mindset. 'Never give up' means to me that even when you are at your lowest, you pause and allow yourself a moment, then you get back up and persist. This frame of mind has helped me get through some of the lowest points in my life.
                   <br />
