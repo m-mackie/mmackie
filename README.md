@@ -1,6 +1,6 @@
 
 # Professional Portfolio for Melissa Mackie
-You can view my portfolio: https://melissamackie.dev
+You can view my portfolio: https://melissamackie.com
 
 ## Introduction
 Welcome to my portfolio! I am Melissa Mackie, a dedicated Full-Stack Web Developer with a strong foundation in HTML, CSS, JavaScript, React, Redux, Node, and Express. My portfolio showcases a variety of projects that highlight my technical prowess and creative flair, complemented by my proficiency in graphic design tools like Figma and Adobe Creative Suite. My journey, endorsed by BloomTech, reflects a blend of technical skills and a commitment to creating engaging, user-friendly digital experiences. I invite you to explore my work and see how my expertise can bring value to your projects.
