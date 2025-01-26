@@ -11,10 +11,7 @@ Melissa Mackie
 ## Tech Stack
 This project utilzes HTML, CSS, and is built on React.JS. It is hosted via Netlify.
 
-### Thoughts
-My goals with my portfolio are to keep it clean and simple for now.  
-
-☕️ Let’s connect over Virtual Coffee (or Tea)!
+ ☕️ Let’s connect over Virtual Coffee (or Tea)!
 </p>
 #
 <p align="left">
