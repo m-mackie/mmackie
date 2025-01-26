@@ -19,5 +19,9 @@ My goals with my portfolio are to keep it clean and simple for now.
 #
 <p align="left">
 <a href="https://docs.google.com/document/d/1-shVOjoOlQq7u8NIBQBxMce9EQgkb8HSRTHdh_h4kd4/edit" target="blank"><img align="center" src="https://flat.badgen.net/badge/=/MyResume" alt="melissamackie" height="120" width="120" /></a>
+  
 <a href="https://www.linkedin.com/in/melissa-m-mackie" target="blank"><img align="center" src="https://flat.badgen.net/badge/Profile/LinkedIn" alt="melissamackie" height="120" width="120" /></a>
+  
+<a href="[https://www.linkedin.com/in/melissa-m-mackie](https://wellfound.com/u/melissa-mackie-1)" target="blank"><img align="center" src="https://flat.badgen.net/badge/Profile/WellFound" alt="melissamackie" height="120" width="120" /></a>
+<a href="https://wellfound.com/u/melissa-mackie-1" target="blank"><img align="center" src="https://flat.badgen.net/badge/Profile/WellFound" alt="melissamackie" height="120" width="120" /></a>
 </p>
